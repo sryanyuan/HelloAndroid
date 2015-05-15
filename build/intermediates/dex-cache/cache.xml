@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
-        jar="H:\android\proj\helloandroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jar="H:\Github\HelloAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="H:\android\proj\helloandroid\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-3bd2d8f94b6d39db17f88dfce56c9f0f0a8bc7be.jar" />
+        <dex dex="H:\Github\HelloAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-25f7558cea2efdce63a00a7fa1a3a80affc1e790.jar" />
     </item>
     <item
-        jar="H:\android\proj\helloandroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jar="H:\Github\HelloAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="H:\android\proj\helloandroid\app\build\intermediates\pre-dexed\debug\classes-2885f24cc571ae51c09d69573d53e2472225b2cc.jar" />
+        <dex dex="H:\Github\HelloAndroid\app\build\intermediates\pre-dexed\debug\classes-1b959041ebb91ed4c6b4816c315559af2e2e109a.jar" />
     </item>
     <item
         jar="H:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="H:\android\proj\helloandroid\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-e8c6d4eee524eed0ef5105b320df85ab8d6e7bb2.jar" />
+        <dex dex="H:\Github\HelloAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-e8c6d4eee524eed0ef5105b320df85ab8d6e7bb2.jar" />
     </item>
     <item
-        jar="H:\android\proj\helloandroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jar="H:\Github\HelloAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="H:\android\proj\helloandroid\app\build\intermediates\pre-dexed\debug\classes-93bde70fde6527f88015131315d56d51a0f872e5.jar" />
+        <dex dex="H:\Github\HelloAndroid\app\build\intermediates\pre-dexed\debug\classes-7ccf22160defee7788bc9a63007830be9ca41a5a.jar" />
     </item>
 
 </items>

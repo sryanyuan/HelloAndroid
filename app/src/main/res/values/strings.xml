@@ -5,4 +5,6 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_sec">SecActivity</string>
     <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="title_activity_broadcast_receiver0">BroadcastReceiver0Activity</string>
+    <string name="title_activity_content_provider0">ContentProvider0Activity</string>
 </resources>

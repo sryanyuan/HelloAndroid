@@ -100,6 +100,28 @@ public class MainActivity extends ActionBarActivity {
                 }
             });
         }
+
+        Button buttonNetworkChanged = (Button)findViewById(R.id.button_networkChangedBroadcast);
+        if(null != buttonNetworkChanged){
+            buttonNetworkChanged.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Intent intent = new Intent(MainActivity.this, BroadcastReceiver0Activity.class);
+                    startActivity(intent);
+                }
+            });
+        }
+
+        Button buttonContentProvider = (Button)findViewById(R.id.button_contentProvider);
+        if(null != buttonContentProvider){
+            buttonContentProvider.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Intent intent = new Intent(MainActivity.this, ContentProvider0Activity.class);
+                    startActivity(intent);
+                }
+            });
+        }
     }
 
     @Override

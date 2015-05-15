@@ -68,4 +68,26 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NetworkChangeBroadcast"
+        android:id="@+id/button_networkChangedBroadcast"
+        android:layout_alignTop="@+id/button_refresh"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignLeft="@+id/button_list_view"
+        android:layout_alignStart="@+id/button_list_view" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="content provider"
+        android:id="@+id/button_contentProvider"
+        android:layout_below="@+id/button_finish"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignLeft="@+id/button_networkChangedBroadcast"
+        android:layout_alignStart="@+id/button_networkChangedBroadcast" />
+
 </RelativeLayout>
